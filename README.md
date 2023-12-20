@@ -23,6 +23,7 @@ I love programing and knowing about new things
 - Ai => Python & DeepLearning & DataScince
 - Blockchain => Solidity & web3js & ethjs
 - DevOps => Docker
+- Design => UI/UX Figma
 
 ## My Certificates
  - [Python](https://quera.org/media/public/quera_certificate/1ef31db7e2c14a99a80f95d0994299c2.jpg)
