@@ -20,7 +20,7 @@ I love programing and knowing about new things
 
 ## Technologies & Tools
 - Web => Reactjs & Nodejs & Python
-- Ai => Python & DeepLearning & DataScince
+- Ai => Python & DeepLearning & DataScience
 - Blockchain => Solidity & web3js & ethjs
 - DevOps => Docker
 - Design => UI/UX Figma
